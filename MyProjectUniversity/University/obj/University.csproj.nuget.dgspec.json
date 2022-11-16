@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectUniversity\\University\\University\\University.csproj": {}
+    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\University\\MyProjectUniversity\\University\\University.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectUniversity\\University\\University\\University.csproj": {
+    "C:\\Users\\nigar\\OneDrive\\Masaüstü\\University\\MyProjectUniversity\\University\\University.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectUniversity\\University\\University\\University.csproj",
+        "projectUniqueName": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\University\\MyProjectUniversity\\University\\University.csproj",
         "projectName": "University",
-        "projectPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectUniversity\\University\\University\\University.csproj",
+        "projectPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\University\\MyProjectUniversity\\University\\University.csproj",
         "packagesPath": "C:\\Users\\nigar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\MyProjectUniversity\\University\\University\\obj\\",
+        "outputPath": "C:\\Users\\nigar\\OneDrive\\Masaüstü\\University\\MyProjectUniversity\\University\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nigar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

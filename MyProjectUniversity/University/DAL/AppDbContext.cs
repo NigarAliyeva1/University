@@ -10,5 +10,7 @@ namespace University.DAL
         {
 
         }
+        public DbSet<Gender> Genders { get; set; }
+        public DbSet<Department> Departments { get; set; }
     }
 }
